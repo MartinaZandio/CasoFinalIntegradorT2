@@ -1,4 +1,4 @@
-package Gestion_habitats;
+
 public class habitat {
 
     float temperatura;
