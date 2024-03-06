@@ -1,7 +1,5 @@
 package Gestion_animales;
 
-import Gestion_animales.animal;
-
 public class animalAcuatico extends animal {
 
     boolean aletas;
